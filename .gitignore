@@ -12,3 +12,5 @@
 vendor
 /static/*
 /attic/*
+# OS
+.DS_Store
